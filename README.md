@@ -2,9 +2,13 @@
 ### Open Source Software Capstone Project
 
 **Student Name:** Shaik Mohammed Suhail
+
 **Registration Number:** 24BAI10942
+
 **Course:** Open Source Software (NGMC)  
-**Chosen Software:** Git (GPL v2)  
+
+*Chosen Software:** Git (GPL v2)  
+
 **Repository Name:** oss-audit-24BAI10942
 
 ---
