@@ -1,4 +1,4 @@
-# OSS Audit — Git
+# Open Source Software Audit Capstone Project
 ### Open Source Software Capstone Project
 
 **Student Name:** Shaik Mohammed Suhail
